@@ -6,25 +6,23 @@ When I explain a signal, I like to let people move it around and see what change
 
 ## Featured projects
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://github.com/brook-hub7777/Tsex-icons"><img width="100%" src="./profile-assets/tsex-icons.png" alt="Tsex Icons project preview"></a><br>
-      <strong><a href="https://github.com/brook-hub7777/Tsex-icons">Tsex Icons</a></strong><br>
-      A tree-shakable React SVG icon library with linear, bold, and bulk variants.
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/brook-hub7777/apexx"><img width="100%" src="./profile-assets/apex.png" alt="Apex study workspace preview"></a><br>
-      <strong><a href="https://github.com/brook-hub7777/apexx">Apex</a></strong><br>
-      A privacy-first study workspace that turns your learning materials into practice.
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/brook-hub7777/clevv"><img width="100%" src="./profile-assets/clev.png" alt="Clev emissions monitoring project preview"></a><br>
-      <strong><a href="https://github.com/brook-hub7777/clevv">Clev</a></strong><br>
-      AI-assisted plume modeling and sensor data to help pinpoint illegal ozone-depleting emissions.
-    </td>
-  </tr>
-</table>
+### [Tsex Icons](https://github.com/brook-hub7777/Tsex-icons)
+
+A tree-shakable React SVG icon library with linear, bold, and bulk variants.
+
+<img src="./profile-assets/tsex-icons.png" alt="Tsex Icons project preview">
+
+### [Apex](https://github.com/brook-hub7777/apexx)
+
+A privacy-first study workspace that turns your learning materials into practice.
+
+<img src="./profile-assets/apex.png" alt="Apex study workspace preview">
+
+### [Clev](https://github.com/brook-hub7777/clevv)
+
+AI-assisted plume modeling and sensor data to help pinpoint illegal ozone-depleting emissions.
+
+<img src="./profile-assets/clev.png" alt="Clev emissions monitoring project preview">
 
 ## What I work with
 
