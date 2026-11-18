@@ -8,7 +8,7 @@ When I explain a signal, I like to let people move it around and see what change
 
 ### [Tsex Icons](https://github.com/brook-hub7777/Tsex-icons)
 
-A tree-shakable React SVG icon library with linear, bold, and bulk variants.
+A React SVG icon library with linear, bold, and bulk variants. Tree-shaking lets your bundler leave out icons you don’t use.
 
 <img src="./profile-assets/tsex-icons.png" alt="Tsex Icons project preview">
 
