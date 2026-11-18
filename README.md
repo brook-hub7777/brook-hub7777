@@ -1,6 +1,6 @@
-I'm Brook Yirsaw
+Hi, I’m Brook Yirsaw. I study Electrical and Computer Engineering at Addis Ababa University.
 
-I study Electrical and Computer Engineering at Addis Ababa University. I build web interfaces and tutor math on Preply, where I've taught 100+ lessons. One of my favorite ways to explain a signal is to let someone move it around and see what happens. That's the idea behind my convolution visualizer.
+I build web interfaces and tutor math on Preply, where I’ve taught 100+ lessons. One of my favorite ways to explain a signal is to let someone move it around and see what happens. That's the idea behind my convolution visualizer.
 
 ## Featured projects
 
