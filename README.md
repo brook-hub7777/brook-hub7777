@@ -10,19 +10,19 @@ When I explain a signal, I like to let people move it around and see what change
 
 A React SVG icon library with linear, bold, and bulk variants. Tree-shaking lets your bundler leave out icons you don’t use.
 
-<img src="./profile-assets/tsex-icons.png" alt="Tsex Icons project preview">
+<img src="./profile-assets/tsex-icons.png" alt="Tsex Icons site showing icon variants and the npm install command">
 
 ### [Apex](https://github.com/brook-hub7777/apexx)
 
 A privacy-first study workspace where you can start a notebook with your own sources and turn them into practice.
 
-<img src="./profile-assets/apex.png" alt="Apex study workspace preview">
+<img src="./profile-assets/apex.png" alt="Apex notebook with a Field Notes banner and a prompt to add sources">
 
 ### [Clev](https://github.com/brook-hub7777/clevv)
 
 Clev combines AI-assisted plume modeling with sensor data to help trace illegal emissions of ozone-depleting substances back to their source.
 
-<img src="./profile-assets/clev.png" alt="Clev emissions monitoring project preview">
+<img src="./profile-assets/clev.png" alt="Clev homepage outlining emissions source ranking, sensors, and reporting">
 
 ## What I work with
 
