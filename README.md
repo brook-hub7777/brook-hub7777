@@ -12,19 +12,19 @@ Jump to [Tsex Icons](#tsex-icons), [Apex](#apex), or [Clev](#clev).
 
 A React SVG icon library with linear, bold, and bulk variants. Tree-shaking lets your bundler leave out icons you don’t use.
 
-<img src="./profile-assets/tsex-icons.png" alt="Tsex Icons site showing icon variants and the npm install command">
+<img src="./profile-assets/tsex-icons.png" width="246" alt="Tsex Icons site showing icon variants and the npm install command">
 
 ### [Apex](https://github.com/brook-hub7777/apexx)
 
 A privacy-first study workspace where you can start a notebook with your own sources and turn them into practice.
 
-<img src="./profile-assets/apex.png" alt="Apex notebook with a Field Notes banner and a prompt to add sources">
+<img src="./profile-assets/apex.png" width="520" alt="Apex notebook with a Field Notes banner and a prompt to add sources">
 
 ### [Clev](https://github.com/brook-hub7777/clevv)
 
 Clev combines AI-assisted plume modeling with sensor data to help trace illegal emissions of ozone-depleting substances back to their source.
 
-<img src="./profile-assets/clev.png" alt="Clev homepage outlining emissions source ranking, sensors, and reporting">
+<img src="./profile-assets/clev.png" width="520" alt="Clev homepage outlining emissions source ranking, sensors, and reporting">
 
 ## What I work with
 
