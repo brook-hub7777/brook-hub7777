@@ -6,6 +6,8 @@ When I explain a signal, I like to let people move it around and see what change
 
 ## Featured projects
 
+Jump to [Tsex Icons](#tsex-icons), [Apex](#apex), or [Clev](#clev).
+
 ### [Tsex Icons](https://github.com/brook-hub7777/Tsex-icons)
 
 A React SVG icon library with linear, bold, and bulk variants. Tree-shaking lets your bundler leave out icons you don’t use.
