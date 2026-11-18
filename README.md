@@ -14,7 +14,7 @@ A React SVG icon library with linear, bold, and bulk variants. Tree-shaking lets
 
 ### [Apex](https://github.com/brook-hub7777/apexx)
 
-A privacy-first study workspace that turns your learning materials into practice.
+A privacy-first study workspace where you can start a notebook with your own sources and turn them into practice.
 
 <img src="./profile-assets/apex.png" alt="Apex study workspace preview">
 
