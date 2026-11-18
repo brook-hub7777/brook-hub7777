@@ -20,7 +20,7 @@ A privacy-first study workspace where you can start a notebook with your own sou
 
 ### [Clev](https://github.com/brook-hub7777/clevv)
 
-AI-assisted plume modeling and sensor data to help pinpoint illegal ozone-depleting emissions.
+Clev combines AI-assisted plume modeling with sensor data to help trace illegal emissions of ozone-depleting substances back to their source.
 
 <img src="./profile-assets/clev.png" alt="Clev emissions monitoring project preview">
 
